@@ -9,4 +9,4 @@
 
 
 
-![Website Front Page](/Images/LifeStyle Store 3.png)
+![Website Front Page](/Images/LifeStyle Stores 3.png)
