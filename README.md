@@ -1,3 +1,3 @@
 # LifeStyleStore
 
-![GitHub Logo](/images/LifestyleStore.png)
+![Website Front Page](/Images/LifeStyleStore.png)
